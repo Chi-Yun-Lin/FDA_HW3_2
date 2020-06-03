@@ -5,8 +5,8 @@ Fundamentals of Data Analytics: HW3-2
 requirements.txt
 
 ## Code
-main.ipynb
-split_csv_file.ipynb
+- main.ipynb
+- split_csv_file.ipynb
 
 ## Report
 report.pdf
