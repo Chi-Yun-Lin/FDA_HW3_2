@@ -6,9 +6,13 @@ requirements.txt
 
 ## Code
 main.ipynb
+split_csv_file.ipynb
 
 ## Report
 report.pdf
+
+## Original Data Set
+google_review_ratings.csv
 
 ## Training Set
 train.csv
