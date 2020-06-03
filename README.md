@@ -2,23 +2,23 @@
 Fundamentals of Data Analytics: HW3-2
 
 ## Requirements
-requirements.txt
+- requirements.txt
 
 ## Code
 - main.ipynb
 - split_csv_file.ipynb
 
 ## Report
-report.pdf
+- report.pdf
 
 ## Original Data Set
-google_review_ratings.csv
+- google_review_ratings.csv
 
 ## Training Set
-train.csv
+- train.csv
 
 ## Testing Set
-test.csv
+- test.csv
 
 ## Last Changing Date
-final edit: 2020.06.04
+- final edit: 2020.06.04
